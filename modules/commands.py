@@ -26,7 +26,7 @@ def register_commands_handlers(bot):
         ])
         await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_00000000fc2461fbbdd6bc500cecbff8_conversation_id6874702c-9760-800e-b0bf-8e0bcf8a3833message_id964012ce-7ef5-4ad4-88e0-1c41ed240c03-1-1.jpg",
+          media="https://www.freepik.com/free-ai-image/portrait-anime-character-doing-fitness-exercising_236197782.htm#fromView=search&page=2&position=22&uuid=7aca9fb5-c87b-4cce-a2bd-8a697e666bc0&query=Hot+girl+cute+animated",
           caption=caption
         ),
         reply_markup=keyboard
@@ -65,7 +65,7 @@ def register_commands_handlers(bot):
     
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_00000000fc2461fbbdd6bc500cecbff8_conversation_id6874702c-9760-800e-b0bf-8e0bcf8a3833message_id964012ce-7ef5-4ad4-88e0-1c41ed240c03-1-1.jpg",
+          media="https://www.freepik.com/premium-ai-image/stunning-digital-portrait-confident-female-with-expressive-blue-eyes-flowing-black-hair_292912268.htm#fromView=search&page=1&position=19&uuid=05f5aa6f-d09a-4578-9972-302056830492&query=Hot+girl+cute+animated",
           caption=caption
         ),
         reply_markup=keyboard
@@ -92,7 +92,7 @@ def register_commands_handlers(bot):
     
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_00000000fc2461fbbdd6bc500cecbff8_conversation_id6874702c-9760-800e-b0bf-8e0bcf8a3833message_id964012ce-7ef5-4ad4-88e0-1c41ed240c03-1-1.jpg",
+          media="https://www.freepik.com/premium-ai-image/modern-spirit-fashion-forward-diva_358241706.htm#fromView=keyword&page=1&position=29&uuid=f5070f8a-bf67-4774-86c7-92067ce73da6&query=Sexy+anime+girl",
           caption=caption
         ),
         reply_markup=keyboard
