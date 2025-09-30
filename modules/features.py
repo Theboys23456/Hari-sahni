@@ -41,7 +41,7 @@ def register_feature_handlers(bot):
         caption = f"**Auto Pin 📌 Batch Name :**\n\nAutomatically Pins the Batch Name in Channel or Group, If Starting from the First Link."
         await callback_query.message.edit_media(
             InputMediaPhoto(
-                media="https://tinypic.host/images/2025/07/14/file_000000002d44622f856a002a219cf27aconversation_id68747543-56d8-800e-ae47-bb6438a09851message_id8e8cbfb5-ea6c-4f59-974a-43bdf87130c0.png",
+                media="https://www.freepik.com/premium-ai-image/modern-spirit-fashion-forward-diva_358241706.htm#fromView=keyword&page=1&position=29&uuid=f5070f8a-bf67-4774-86c7-92067ce73da6&query=Sexy+anime+girl",
                 caption=caption
             ),
             reply_markup=keyboard
@@ -55,7 +55,7 @@ def register_feature_handlers(bot):
       caption = f"**Custom Watermark :**\n\nSet Your Own Custom Watermark on Videos for Added Personalization."
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_000000002d44622f856a002a219cf27aconversation_id68747543-56d8-800e-ae47-bb6438a09851message_id8e8cbfb5-ea6c-4f59-974a-43bdf87130c0.png",
+          media="https://www.freepik.com/free-ai-image/anime-style-illustration-rose_206341678.htm#fromView=keyword&page=1&position=19&uuid=f5070f8a-bf67-4774-86c7-92067ce73da6&query=Sexy+anime+girl",
           caption=caption
           ),
           reply_markup=keyboard
@@ -67,7 +67,7 @@ def register_feature_handlers(bot):
       caption = f"**🔄 Reset Command:**\n\nIf You Want to Reset or Restart Your Bot, Simply Use Command /reset."
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_000000002d44622f856a002a219cf27aconversation_id68747543-56d8-800e-ae47-bb6438a09851message_id8e8cbfb5-ea6c-4f59-974a-43bdf87130c0.png",
+          media="https://www.freepik.com/premium-ai-image/drawing-woman-blue-dress_59951677.htm#fromView=keyword&page=1&position=17&uuid=f5070f8a-bf67-4774-86c7-92067ce73da6&query=Sexy+anime+girl",
           caption=caption
           ),
           reply_markup=keyboard
@@ -79,7 +79,7 @@ def register_feature_handlers(bot):
       caption = f"**🖨️ Bot Working Logs:**\n\n◆/logs - Bot Send Working Logs in .txt File."
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_000000002d44622f856a002a219cf27aconversation_id68747543-56d8-800e-ae47-bb6438a09851message_id8e8cbfb5-ea6c-4f59-974a-43bdf87130c0.png",
+          media="https://www.freepik.com/premium-ai-image/anime-girl-sitting-desk-with-cell-phone-her-hand_313114443.htm#fromView=keyword&page=1&position=15&uuid=f5070f8a-bf67-4774-86c7-92067ce73da6&query=Sexy+anime+girl",
           caption=caption
           ),
           reply_markup=keyboard
@@ -91,7 +91,7 @@ def register_feature_handlers(bot):
       caption = f"**🖋️ Custom File Name:**\n\nSupport for Custom Name before the File Extension.\nAdd name ..when txt is uploading"
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_000000002d44622f856a002a219cf27aconversation_id68747543-56d8-800e-ae47-bb6438a09851message_id8e8cbfb5-ea6c-4f59-974a-43bdf87130c0.png",
+          media="https://www.freepik.com/free-ai-image/anime-like-illustration-girl-portrait_351801839.htm#fromView=keyword&page=1&position=16&uuid=f5070f8a-bf67-4774-86c7-92067ce73da6&query=Sexy+anime+girl",
           caption=caption
           ),
           reply_markup=keyboard
@@ -103,7 +103,7 @@ def register_feature_handlers(bot):
       caption = f"**Custom Title Feature :**\nAdd and customize titles at the starting\n**NOTE 📍 :** The Titile must enclosed within (Title), Best For appx's .txt file."
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_000000002d44622f856a002a219cf27aconversation_id68747543-56d8-800e-ae47-bb6438a09851message_id8e8cbfb5-ea6c-4f59-974a-43bdf87130c0.png",
+          media="https://www.freepik.com/premium-ai-image/anime-girl-sitting-window-sill-with-blue-eyes-black-dress_402567199.htm#fromView=keyword&page=1&position=14&uuid=f5070f8a-bf67-4774-86c7-92067ce73da6&query=Sexy+anime+girl",
           caption=caption
           ),
           reply_markup=keyboard
@@ -115,7 +115,7 @@ def register_feature_handlers(bot):
       caption = f"**📢 Broadcasting Support:**\n\n◆/broadcast - 📢 Broadcast to All Users.\n◆/broadusers - 👁️ To See All Broadcasting User"
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_000000002d44622f856a002a219cf27aconversation_id68747543-56d8-800e-ae47-bb6438a09851message_id8e8cbfb5-ea6c-4f59-974a-43bdf87130c0.png",
+          media="https://www.freepik.com/premium-ai-image/anime-girl-sitting-window-sill-with-blue-eyes-black-dress_402567199.htm#fromView=keyword&page=1&position=14&uuid=f5070f8a-bf67-4774-86c7-92067ce73da6&query=Sexy+anime+girl",
           caption=caption
           ),
           reply_markup=keyboard
@@ -127,7 +127,7 @@ def register_feature_handlers(bot):
       caption = f"**🤖 Available Commands 🗓️**\n◆/t2t for text to .txt file\n"
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://tinypic.host/images/2025/07/14/file_000000002d44622f856a002a219cf27aconversation_id68747543-56d8-800e-ae47-bb6438a09851message_id8e8cbfb5-ea6c-4f59-974a-43bdf87130c0.png",
+          media="https://www.freepik.com/free-ai-image/lifestyle-scene-with-people-doing-regular-tasks-anime-style_94952596.htm#fromView=keyword&page=2&position=20&uuid=df9b46bb-3e9a-43e9-b3bb-481ac83cbced&query=Sexy+anime+girl",
           caption=caption
           ),
           reply_markup=keyboard
@@ -139,7 +139,7 @@ def register_feature_handlers(bot):
       caption = f"**YouTube Commands:**\n\n◆/y2t - 🔪 YouTube Playlist → .txt Converter\n◆/ytm - 🎶 YouTube → .mp3 downloader\n\n<blockquote><b>◆YouTube → .mp3 downloader\n01. Send YouTube Playlist.txt file\n02. Send single or multiple YouTube links set\neg.\n`https://www.youtube.com/watch?v=xxxxxx\nhttps://www.youtube.com/watch?v=yyyyyy`</b></blockquote>"
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://envs.sh/GVi.jpg",
+          media="https://www.freepik.com/premium-ai-image/most-beautiful-woman-history-kawaii-soft-smile-anime_166751376.htm#fromView=keyword&page=2&position=14&uuid=df9b46bb-3e9a-43e9-b3bb-481ac83cbced&query=Sexy+anime+girl",
           caption=caption
           ),
           reply_markup=keyboard
@@ -152,7 +152,7 @@ def register_feature_handlers(bot):
       caption = f"**HTML Commands:**\n\n◆/t2h - 🌐 .txt → .html Converter"
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://envs.sh/GVI.jpg",
+          media="https://www.freepik.com/premium-ai-image/striking-anime-girl-with-fiery-red-hair-captivating-blue-eyes_339512292.htm#fromView=keyword&page=2&position=5&uuid=df9b46bb-3e9a-43e9-b3bb-481ac83cbced&query=Sexy+anime+girl",
           caption=caption
           ),
           reply_markup=keyboard
