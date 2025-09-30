@@ -69,7 +69,7 @@ async def start(bot, m: Message):
         )
     await bot.send_photo(
         chat_id=m.chat.id,
-        photo="https://iili.io/KuCBoV2.jpg",
+        photo="https://www.freepik.com/premium-ai-image/striking-anime-girl-with-fiery-red-hair-captivating-blue-eyes_339512292.htm#fromView=keyword&page=2&position=5&uuid=df9b46bb-3e9a-43e9-b3bb-481ac83cbced&query=Sexy+anime+girl",
         caption=caption,
         reply_markup=keyboard
     )
@@ -83,7 +83,7 @@ async def back_to_main_menu(client, callback_query):
     
     await callback_query.message.edit_media(
       InputMediaPhoto(
-        media="https://envs.sh/GVI.jpg",
+        media="https://i.ibb.co/ccV44ZRS/STRANGER-BOY.jpg",
         caption=caption
       ),
       reply_markup=keyboard
