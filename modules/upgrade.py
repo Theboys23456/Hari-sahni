@@ -34,7 +34,7 @@ def register_upgrade_handlers(bot):
     
       await callback_query.message.edit_media(
         InputMediaPhoto(
-          media="https://envs.sh/GVI.jpg",
+          media="https://i.ibb.co/0p3pmkwn/Angel.jpg",
           caption=caption
         ),
         reply_markup=keyboard
