@@ -42,7 +42,7 @@ keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton("✨ Commands", callback_data="cmd_command")],
             [InlineKeyboardButton("💎 Features", callback_data="feat_command"), InlineKeyboardButton("⚙️ Settings", callback_data="setttings")],
             [InlineKeyboardButton("💳 Plans", callback_data="upgrade_command")],
-            [InlineKeyboardButton(text="📞 Contact", url=f"tg://openmessage?user_id={OWNER}"), InlineKeyboardButton(text="🛠️ Repo", url="https://github.com/nikhilsainiop/saini-txt-direct")],
+            [InlineKeyboardButton(text="📞 Contact", url=f"tg://openmessage?user_id={OWNER}"), InlineKeyboardButton(text="⚔️ GROUP ⚙️", url="https://t.me/stangerboy")],
         ])      
 
 @bot.on_message(filters.command("start"))
@@ -111,6 +111,8 @@ async def info(bot: Client, update: Message):
     keyboard = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact", url=f"tg://openmessage?user_id={OWNER}")]])
     text = (
         f"╭────────────────╮\n"
+        f"| STRANGER BOTS\n"
+        f"├────────────────\n"
         f"│✨ **Your Telegram Info**✨ \n"
         f"├────────────────\n"
         f"├🔹**Name :** `{update.from_user.first_name} {update.from_user.last_name if update.from_user.last_name else 'None'}`\n"
@@ -195,7 +197,7 @@ def reset_and_set_commands():
 
     # General users ke liye commands
     general_commands = [
-        {"command": "start", "description": "✅ Check Alive the Bot"},
+        {"command": "start", "description": "✅ Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Black, 12GB RAM, 512GB Storage), 200MP Camera Deploy 🤳 successfully ✅️ Alive the Bot"},
         {"command": "stop", "description": "🚫 Stop the ongoing process"},
         {"command": "id", "description": "🆔 Get Your ID"},
         {"command": "info", "description": "ℹ️ Check Your Information"},
